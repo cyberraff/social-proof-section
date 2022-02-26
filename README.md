@@ -60,5 +60,5 @@ Will br developing my React skills from now and will also be using saas, so I ca
 ## Author
 
 - Website - [Still a work in process ()
-- Frontend Mentor - [@cyberraff](https://www.frontendmentor.io/profile/cyberraff
+- Frontend Mentor - [@cyberraff](https://www.frontendmentor.io/profile/cyberraff)
 - Twitter - [@raphaellosanti_](https://www.twitter.com/raphaellosanti_)
